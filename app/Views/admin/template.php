@@ -42,7 +42,7 @@
                             <div class="sb-nav-link-icon"><i class="fa-solid fa-book"></i></div>
                             Buku
                         </a>
-                        <a class="nav-link collapsed" href="#">
+                        <a class="nav-link collapsed" href="/transaksi">
                             <div class="sb-nav-link-icon"><i class="fa-solid fa-clock-rotate-left"></i></div>
                             Transaksi
                         </a>
