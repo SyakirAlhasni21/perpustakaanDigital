@@ -12,11 +12,6 @@
 </nav>
 
 <div class="container mt-4">
-    <?php if (session()->getFlashdata('msg')): ?>
-        <div class="alert alert-info">
-            <?= htmlspecialchars((string) session()->getFlashdata('msg')) ?>
-        </div>
-    <?php endif; ?>
     <h1 class="mb-4">Daftar Buku</h1>
 
     <!-- Search form -->
